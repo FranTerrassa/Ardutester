@@ -57,24 +57,13 @@ Aquí se puede ver como queda el modelo montado.
 *Las medidas deben ser iguales pero no lo aseguro.
 
 
-Porting of the files from TransistorTester V1.13 in the Arduino Editor, 
-porting first to Arduino Mega, then to Arduino UNO.
-The project uses widely the files posted below, same filenames, just .ino files.
 
-https://www.mikrocontroller.net/svnbrowser/transistortester/Software/trunk/
+## Paso 1: Instalación
 
-https://github.com/svn2github/transistortester/tree/master/Software/trunk
+1. Abre el archivo de arduino ArduTester_1_13.ino.
+2. Conecta el arduino nano y elige puerto correcto.
+3. Clica sobre la ![flecha](https://github.com/user-attachments/assets/3db5be3f-c48d-4bdd-92a0-41bbf94c064b) y espera a que cargue el codigo, una vez cargado ya puedes retirar el arduino y cerrar el programa.
 
-Description and credits you find here:
-https://www.mikrocontroller.net/articles/AVR_Transistortester
-
-
-
-== Step 1: Installation
-
-1. Open the file
-2. Edit as you like
-3. Release to the World!
 
 == Step 2: Assemble the circuit
 
