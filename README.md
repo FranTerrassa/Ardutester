@@ -4,14 +4,14 @@
 :Revision: ArduTester V1.13
 :License: OSHW
 
-= Project: {Ardutester}
+## Project: {Ardutester}
 
 
 
-La pcb esta diseñada para ser lo más pequeña y manejable posible, se alimenta de 9v por debajo de ese voltaje podria dar malos resultads.
+La pcb esta diseñada para ser lo más pequeña y manejable posible, se alimenta de 9v por debajo de ese voltaje podría dar malos resultados.
 
 
-![](image/ESQUEMA ARDUTESTER.png)
+![](image/ESQUEMAARDUTESTER.png)
 
 
 
