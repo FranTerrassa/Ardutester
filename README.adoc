@@ -7,7 +7,7 @@
 = Project: {Ardutester}
 Porting of the files from TransistorTester V1.13 in the Arduino Editor, 
 porting first to Arduino Mega, then to Arduino UNO.
-
+https://github.com/FranTerrassa/Ardutester/blob/main/Imagenes/pcb%20delantera.png
 The project uses widely the files posted below, same filenames, just .ino files.
 
 https://www.mikrocontroller.net/svnbrowser/transistortester/Software/trunk/
