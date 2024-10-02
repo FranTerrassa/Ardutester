@@ -4,9 +4,9 @@
 :Revision: ArduTester V1.13
 :License: OSHW
 
-## Project: {Ardutester}
+## Projecto: {Ardutester}
 
-No es un proyecto propio, pero si he diseñado la pcd y fabricado siguiendo el esquema original.
+El autor original de este proyecto es plouc68000, aquien doy todo el adradecimiento por este proyecto para la comunidad. No es un proyecto propio, pero si he diseñado la pcd y fabricado siguiendo el esquema original.
 
 ![Esquema](image/ESQUEMAARDUTESTER.png)
 
@@ -15,10 +15,21 @@ La pcb esta diseñada para ser lo más pequeña y manejable posible, se alimenta
 
 ![](image/pcbdelanterakikad.png)
 
+Se a optado por resistencias SMD 1206 1/4w por el espacio que ocupan y no siendo muy dificiles de soldar para usuario medio y se a agregado una resistencia variable de 200k, (VR1) pra ajustar el contraste de la pantalla.
+
 ![](image/pcbtraserakikad.png)
 
+El resultado lo vemos en las siguientes imagenes.
+
+![](image/pcbdelantera.png)
 
 
+![](image/pcbTrasera.png)
+
+
+## La caja 3D
+
+Ha sido diseñada desde tinkercad es un modelo sencillo, pero agradable en tamaño y sencillez. Yo la he impreso en PLA con una boquilla 0.2, con un relleno de 20% y una altura de capa de 0.14.
 
 
 
