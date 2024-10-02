@@ -6,7 +6,7 @@
 
 ## Projecto: {Ardutester}
 
-El autor original de este proyecto es plouc68000, aquien doy todo el adradecimiento por este proyecto para la comunidad. No es un proyecto propio, pero si he diseñado la pcd y fabricado siguiendo el esquema original.
+El autor original de este proyecto es [plouc68000](https://projecthub.arduino.cc/plouc68000) quien hizo el diseño y el codigo ardutester v1.13, aquien doy le todo el agradecimiento por este proyecto para la comunidad. No es un proyecto propio, pero si he diseñado la pcd y fabricado siguiendo el esquema original.
 
 ![Esquema](image/ESQUEMAARDUTESTER.png)
 
@@ -31,7 +31,7 @@ El resultado lo vemos en las siguientes imagenes.
 
 Ha sido diseñada desde tinkercad es un modelo sencillo, pero agradable en tamaño y sencillez. Yo la he impreso en PLA con una boquilla 0.2, con un relleno de 20% y una altura de capa de 0.14.
 
-
+![](images/base-bottom.jpg)
 
 Porting of the files from TransistorTester V1.13 in the Arduino Editor, 
 porting first to Arduino Mega, then to Arduino UNO.
