@@ -31,7 +31,13 @@ El resultado lo vemos en las siguientes imagenes.
 
 Ha sido diseñada desde tinkercad es un modelo sencillo, pero agradable en tamaño y sencillez. Yo la he impreso en PLA con una boquilla 0.2, con un relleno de 20% y una altura de capa de 0.14.
 
-![](caja/base-bottom.jpg)
+![](caja/tapadelantera.png)
+
+![](caja/base.png)
+
+![](caja/montadafrontal.png)
+
+![](caja/montadatrasera.png)
 
 Porting of the files from TransistorTester V1.13 in the Arduino Editor, 
 porting first to Arduino Mega, then to Arduino UNO.
