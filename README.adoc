@@ -17,13 +17,7 @@ https://github.com/svn2github/transistortester/tree/master/Software/trunk
 Description and credits you find here:
 https://www.mikrocontroller.net/articles/AVR_Transistortester
 
-The Project now "Verify" and "Upload" to a Arduino/Genuino Uno with the standard Arduino tools
-
-Differences with Arduino_uno version published as .hex
-
--Works with a LCD 4 bits parallel instead of serial port
--Test_button moved from DIGITAL 6 to ANALOG IN A3 to free DIGITAL 2...7 for LCD
--DIGITAL 0-1 is reserved for Rx,Tx (Monitor). Not active in this version.
+También se a consultado este otro link https://www.youtube.com/watch?v=iBbuWZ-2Ljg&t=707s[Mundo Yakara]
 
 == Step 1: Installation
 
