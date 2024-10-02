@@ -10,6 +10,17 @@
 
 
 [#img-pcb delantera]
+
+
+
+
+
+
+
+
+
+
+
 .Captura PCB delantera
 [link=https://github.com/FranTerrassa/Ardutester/blob/main/image/pcb%20delantera.png]
 image::pcb delantera.jpg[pcb delantera,300,200]
