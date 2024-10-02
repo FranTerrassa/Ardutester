@@ -99,8 +99,8 @@ Add the bill of the materials you need for this project.
 |R5-R7       | Resistor 240 kOhm SMD 1/4W|             | 6        |
 |  R1        | Resistor 100 kOhm SMD 1/4W|             | 1        |
 |  VR1       | Pot. 200 khm              | T93YB 200K  | 1        |
-|  SW        | Test Button               |TL2230EEF100 | 1        |
-|  J2        | Barrel                    |   PJ-002B   | 1        |     https://es.aliexpress.com/item/4001198421663.html?spm=a2g0o.productlist.main.3.54dc1516CoQb6N&algo_pvid=d2288737-30ab-41a3-969c-2ecb81ce213b&algo_exp_id=d2288737-30ab-41a3-969c-2ecb81ce213b-1&pdp_npi=4%40dis%21EUR%211.50%211.47%21%21%211.63%211.60%21%4021038e6617278282349552791e3437%2110000015275671645%21sea%21ES%21110520769%21X&curPageLogUid=Br6Yq0f0jhEw&utparam-url=scene%3Asearch%7Cquery_from%3A[Aliexpress]     
+|  SW        | Test Button               |TL2230EEF100 | 1        | https://www.mouser.es/ProductDetail/Vishay-Sfernice/T93YB-200K-10-TU?qs=BJgd0gnappXpszE2a8ZIhw%3D%3D[Mouser] https://es.aliexpress.com/item/1703067548.html?aff_fcid=fafa71da58ec4b25b63fa63f5b75399c-1727865206917-02348-_oBVFEtF&aff_fsk=_oBVFEtF&aff_platform=api-new-link-generate&sk=_oBVFEtF&aff_trace_key=fafa71da58ec4b25b63fa63f5b75399c-1727865206917-02348-_oBVFEtF&terminal_id=86576b637fb64effa68b8191e53f7e2e&afSmartRedirect=y[Aliexpress]
+|  J2        | Barrel                    |   PJ-002B   | 1        |     https://es.aliexpress.com/item/32974707992.html?spm=a2g0o.order_list.order_list_main.1072.1501194dUeYPXH&gatewayAdapt=glo2esp[Aliexpress]     
 |  J1        | Pin Socket 1x03           |             | 1        | https://es.aliexpress.com/item/4001198421663.html?spm=a2g0o.productlist.main.3.54dc1516CoQb6N&algo_pvid=d2288737-30ab-41a3-969c-2ecb81ce213b&algo_exp_id=d2288737-30ab-41a3-969c-2ecb81ce213b-1&pdp_npi=4%40dis%21EUR%211.50%211.47%21%21%211.63%211.60%21%4021038e6617278282349552791e3437%2110000015275671645%21sea%21ES%21110520769%21X&curPageLogUid=Br6Yq0f0jhEw&utparam-url=scene%3Asearch%7Cquery_from%3A[Aliexpress]        
 |===
 
