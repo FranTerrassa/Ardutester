@@ -6,12 +6,17 @@
 
 ## Project: {Ardutester}
 
+No es un proyecto propio, pero si he diseñado la pcd y fabricado siguiendo el esquema original.
 
+![Esquema](image/ESQUEMAARDUTESTER.png)
 
 La pcb esta diseñada para ser lo más pequeña y manejable posible, se alimenta de 9v por debajo de ese voltaje podría dar malos resultados.
 
 
-![](image/ESQUEMAARDUTESTER.png)
+![](image/pcbdelanterakikad.png)
+
+![](image/pcbtraserakikad.png)
+
 
 
 
