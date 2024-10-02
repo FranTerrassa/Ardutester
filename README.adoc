@@ -5,7 +5,14 @@
 :License: OSHW
 
 = Project: {Ardutester}
- ![ Alt Text](https://github.com/FranTerrassa/Ardutester/blob/main/Imagenes/pcb%20delantera.png)
+
+
+
+
+image::PCB delantera.jpg[]
+
+
+
 Porting of the files from TransistorTester V1.13 in the Arduino Editor, 
 porting first to Arduino Mega, then to Arduino UNO.
 The project uses widely the files posted below, same filenames, just .ino files.
