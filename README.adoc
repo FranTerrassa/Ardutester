@@ -92,14 +92,16 @@ To contribute to this project please contact plouc68000 <plouc68000@gmail.com>
 Add the bill of the materials you need for this project.
 
 |===
-| ID | Part name           | Part number | Quantity
-|    | Arduino Nano        |             | 1       
-|    | LCD Module 16x2     |             | 1        
-|    | Resistor 680 Ohm    |             | 3   
-|    | Resistor 470 kOhm   |             | 3
-|    | Resistor 10  kOhm   |             | 1
-|    | Pot. 10 kOhm        |             | 1
-|    | Test Button         |             | 1  
+|  ID        |  Part name                | Part number | Quantity
+|  A1        | Arduino Nano              |             | 1       
+|  U1        | LCD Module 16x2           |             | 1        
+|R2-R4,R8-R10| Resistor 680 Ohm SMD 1/4W |             | 3   
+|R5-R7       | Resistor 240 kOhm SMD 1/4W|             | 6
+|  R1        | Resistor 100 kOhm SMD 1/4W|             | 1
+|  VR1       | Pot. 200 khm              | T93YB 200K  | 1
+|  SW        | Test Button               |TL2230EEF100 | 1  
+|  J2        | Barrel                    |   PJ-002B   | 1           
+|  J1        | Pin Socket 1x03           |             | 1           
 |===
 
 
