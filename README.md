@@ -8,8 +8,11 @@
 
 
 
+La pcb esta diseñada para ser lo más pequeña y manejable posible, se alimenta de 9v por debajo de ese voltaje podria dar malos resultads.
 
-![](image/pcb delantera.png)
+
+![](image/ESQUEMA ARDUTESTER.png)
+
 
 
 
