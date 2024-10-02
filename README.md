@@ -1,16 +1,6 @@
-Author: plouc68000
-
-Email: plouc68000@gmail.com
-
-Date: 14/10/2018
-
-Revision: ArduTester V1.13
-
-License: OSHW
-
 ## Projecto: {Ardutester}
 
-El autor original de este proyecto es [plouc68000](https://projecthub.arduino.cc/plouc68000) quien hizo el diseño y el codigo ardutester v1.13, aquien doy le todo el agradecimiento por este proyecto para la comunidad. No es un proyecto propio, pero si he diseñado la pcd y fabricado siguiendo el esquema original.
+El autor original de este proyecto es [plouc68000](https://projecthub.arduino.cc/plouc68000) quien hizo el diseño y el codigo ardutester v1.13, aquien le doy todo el agradecimiento por este proyecto para la comunidad. También se a consultado este otro link [Mundo Yakara](https://www.youtube.com/watch?v=iBbuWZ-2Ljg&t=707sNo), gracias yakara por esos grandes videos. No es un proyecto propio, pero si he diseñado la PCB y fabricado siguiendo el esquema original.
 
 ![Esquema](image/ESQUEMAARDUTESTER.png)
 
@@ -78,7 +68,7 @@ https://github.com/svn2github/transistortester/tree/master/Software/trunk
 Description and credits you find here:
 https://www.mikrocontroller.net/articles/AVR_Transistortester
 
-También se a consultado este otro link https://www.youtube.com/watch?v=iBbuWZ-2Ljg&t=707s[Mundo Yakara]
+
 
 == Step 1: Installation
 
