@@ -4,7 +4,7 @@
 :Revision: ArduTester V1.13
 :License: OSHW
 
-= Project: {Project}
+= Project: {Ardutester}
 Porting of the files from TransistorTester V1.13 in the Arduino Editor, 
 porting first to Arduino Mega, then to Arduino UNO.
 
