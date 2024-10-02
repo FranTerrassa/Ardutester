@@ -9,7 +9,7 @@
 
 
 
-image::pcb delantera.jpg[]
+![](image/pcb delantera.png)
 
 
 
