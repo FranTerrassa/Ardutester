@@ -65,56 +65,8 @@ Aquí se puede ver como queda el modelo montado.
 3. Clica sobre la ![flecha](https://github.com/user-attachments/assets/3db5be3f-c48d-4bdd-92a0-41bbf94c064b) y espera a que cargue el codigo, una vez cargado ya puedes retirar el arduino y cerrar el programa.
 
 
-== Step 2: Assemble the circuit
+## Paso 2: Montaje de componentes en la PCB
 
-Assemble the circuit following this instruction:
-
-1. Look at your Arduino/Genuino Uno pins:
-
--Pin ANALOG IN A0 (PC0) is TP1 ( ArduinoTester Pin 1 )
--Pin ANALOG IN A1 (PC1) is TP2 ( ArduinoTester Pin 2 ) 
--Pin ANALOG IN A2 (PC2) is TP3 ( ArduinoTester Pin 3 )
-
--Between A0 and DIGITAL 8 (PB0)  connect a 680 Ohm  Resistor
--Between A0 and DIGITAL 9 (PB1)  connect a 470 kOhm Resistor
--Between A1 and DIGITAL 10 (PB2) connect a 680 Ohm  Resistor
--Between A1 and GIGITAL 11 (PB3) connect a 470 kOhm Resistor
--Between A2 and DIGITAL 12 (PB4) connect a 680 Ohm  Resistor
--Between A1 and DIGITAL 13 (PB5) connect a 470 kOhm Resistor
-
--Pin ANALOG IN A3 to a 10 kOhm pullup Resistor at 5V and via the Test Button to GND
-
-
-2. Look at your 2 Line LCD HD44780 Compatible ( 4 Bits Data ):
-
--Connect DIGITAL 5  to LCD DB4
--Connect DIGITAL 4  to LCD DB5
--Connect DIGITAL 3  to LCD DB6
--Connect DIGITAL 2  to LCD DB7
--Connect DIGITAL 7  to LCD RS
--Connect DIGITAL 6  to LCD E
-
--LCD LED- to GND
--LCD LED+ to 3,3V
--LCD VDD  to 5V
--LCD VSS  to GND
--LCD R/W  to GND
--LCD VO   to 10 kOhm Pot. ( Contrast Adjust. )
-
-== Step 3: Load the code
-
-Select Arduino/Genuino Uno and
-Upload the code contained in this sketch on to your board
-
-=== Folder structure
-
-....
- TT_1_13_UNO             => Arduino sketch folder
-  ├── TT_13oct.ino       => main Arduino file
-  ├── schematics.png     => (optional) if someone wants to do it ...
-  ├── layout.png         => (optional) if someone wants to do it ...
-  └── ReadMe.adoc        => this file
-....
 
 === License
 This project is released under a {OSHW} License.
@@ -122,8 +74,7 @@ This project is released under a {OSHW} License.
 === Contributing
 To contribute to this project please contact plouc68000 <plouc68000@gmail.com>
 
-=== BOM
-Add the bill of the materials you need for this project.
+
 
 
 
