@@ -1,5 +1,7 @@
 ## Projecto: {Ardutester}
 
+Un comprobador de componentes Arduino basado en https://create.arduino.cc/projecthub/plouc68000/ardutester-v1-13-the-arduino-uno-transistor-tester-dbafb4
+
 El autor original de este proyecto es [plouc68000](https://projecthub.arduino.cc/plouc68000) quien hizo el diseño y el codigo ardutester v1.13, aquien le doy todo el agradecimiento por este proyecto para la comunidad. También se a consultado este otro link [Mundo Yakara](https://www.youtube.com/watch?v=iBbuWZ-2Ljg&t=707sNo), gracias yakara por esos grandes videos. No es un proyecto propio, pero si he diseñado la PCB y fabricado siguiendo el esquema original.
 
 ![Esquema](image/ESQUEMAARDUTESTER.png)
