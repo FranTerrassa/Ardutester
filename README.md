@@ -7,7 +7,7 @@ El autor original de este proyecto es [plouc68000](https://projecthub.arduino.cc
 ![Esquema](image/ESQUEMAARDUTESTER.png)
 
 La pcb esta diseñada para ser lo más pequeña y manejable posible, se alimenta de 9v por debajo de ese voltaje podría dar malos resultados.
-Se a optado por resistencias SMD 1206 1/4w por el espacio que ocupan y no siendo muy dificiles de soldar para usuario medio y se a agregado una resistencia variable de 2k, (VR1) pAra ajustar el contraste de la pantalla.
+Se a optado por resistencias SMD 1206 1/4w por el espacio que ocupan y no siendo muy dificiles de soldar para usuario medio y se a agregado una resistencia variable de 2k, (VR1) para ajustar el contraste de la pantalla.
 
 
 <img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/pcbdelanterakikad.png" width="300"> <img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/pcbtraserakikad.png" width="300">
