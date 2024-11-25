@@ -79,7 +79,7 @@ Aquí se puede ver como queda el modelo montado.
 
 3. una vez todo soldado, procedemos al montaje de la carcasa. Este es el resultado final, solo queda enchufarla a una fuente de alimentación de 9 voltios y a disfrutar.
 
-<img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/arduino terminado.jpg" width="300"> <img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/pcbtraserakikad.png" width="300">
+<img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/arduino terminado.jpg" width="300"> <img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/image/ardutester funcionando.jpg" width="300">
 
 
 === License
