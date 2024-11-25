@@ -30,13 +30,13 @@ Ha sido diseñada desde tinkercad es un modelo sencillo, pero agradable en tama�
 
 Aquí se puede ver como queda el modelo montado.
 
-<img src="https://github.com/FranTerrassa/Ardutester/blob/main/Caja/montadafrontal.png" width="250"> <img src="https://github.com/FranTerrassa/Ardutester/blob/main/Caja/image/ardutester funcionando.jpg" width="230">
+<img src="https://github.com/FranTerrassa/Ardutester/blob/main/Caja/montadafrontal.png" width="250"> <img src="https://github.com/FranTerrassa/Ardutester/blob/main/Caja/montadatrasera.png" width="230">
 
 
 ## Lista de materiales
 
 
-|===
+
 |  ID        |  Part name                | Part number | Quantity |
 |------------|---------------------------|-------------|----------| 
 |            |  [Pin Header 1x06 2.54mm](https://es.aliexpress.com/item/32973181162.html?aff_fcid=d903680999de436089a5490bd3a816fa-1727865740130-04704-_op7nKeV&aff_fsk=_op7nKeV&aff_platform=api-new-link-generate&sk=_op7nKeV&aff_trace_key=d903680999de436089a5490bd3a816fa-1727865740130-04704-_op7nKeV&terminal_id=86576b637fb64effa68b8191e53f7e2e&afSmartRedirect=y)|             | 2        |
@@ -79,7 +79,7 @@ Aquí se puede ver como queda el modelo montado.
 
 3. una vez todo soldado, procedemos al montaje de la carcasa. Este es el resultado final, solo queda enchufarla a una fuente de alimentación de 9 voltios y a disfrutar.
 
-<img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/arduino terminado.jpg" width="300"> <img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/image/ardutester funcionando.jpg" width="300">
+<img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/arduino terminado.jpg" width="300"> <img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/ardutester funcionando.jpg" width="313">
 
 
 === License
