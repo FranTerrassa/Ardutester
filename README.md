@@ -69,9 +69,17 @@ Aquí se puede ver como queda el modelo montado.
 
 ## Paso 2: Montaje de componentes en la PCB
 
-1: se suelda la parte trasera, lo que incluye Arduino, barrel y resistencias smd y quedara ta que así.
-<img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/pcbdelanterakikad.png" width="300"> <img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/pcbtraserakikad.png" width="300">
+1. se suelda la parte trasera, lo que incluye Arduino, barrel y resistencias smd. Quedara ta que así.
 
+<img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/trasera pcb soldada.jpg" width="300">
+
+2. Procederemos a las soldadura de la parte delantera, que incluye pantalla, pulsador, pinsocket y el potenciometro. Este sera el resultado.
+
+<img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/delantera pcb soldada.jpg" width="300">
+
+3. una vez todo soldado, procedemos al montaje de la carcasa. Este es el resultado final, solo queda enchufarla a una fuente de alimentación de 9 voltios y a disfrutar.
+
+<img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/arduino terminado.jpg" width="300">
 
 
 === License
