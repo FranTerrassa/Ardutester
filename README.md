@@ -69,6 +69,10 @@ Aquí se puede ver como queda el modelo montado.
 
 ## Paso 2: Montaje de componentes en la PCB
 
+1: se suelda la parte trasera, lo que incluye Arduino, barrel y resistencias smd y quedara ta que así.
+<img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/pcbdelanterakikad.png" width="300"> <img src="https://github.com/FranTerrassa/Ardutester/blob/main/image/pcbtraserakikad.png" width="300">
+
+
 
 === License
 This project is released under a {OSHW} License.
