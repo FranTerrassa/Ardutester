@@ -30,7 +30,7 @@ Ha sido diseñada desde tinkercad es un modelo sencillo, pero agradable en tama�
 
 Aquí se puede ver como queda el modelo montado.
 
-<img src="https://github.com/FranTerrassa/Ardutester/blob/main/Caja/montadafrontal.png" width="250"> <img src="https://github.com/FranTerrassa/Ardutester/blob/main/Caja/montadatrasera.png" width="230">
+<img src="https://github.com/FranTerrassa/Ardutester/blob/main/Caja/montadafrontal.png" width="250"> <img src="https://github.com/FranTerrassa/Ardutester/blob/main/Caja/image/ardutester funcionando.jpg" width="230">
 
 
 ## Lista de materiales
